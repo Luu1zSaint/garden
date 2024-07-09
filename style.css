@@ -42,9 +42,6 @@
     letter-spacing: 3px;
     color: var(--desc-color);
 }
-.btn-link{
-    
-}
 /*===== HEADER =====*/
 #header{
     background-image: url(assets/imgs/main.jpg);
